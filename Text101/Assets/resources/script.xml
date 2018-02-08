@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<script>
+	<stage name="splash_screen">
+		<text>You got in a prison for robbing a bank. Next sevral years you'll spend i prison cell, unless you decide to escape!</text>
+		<action key="S" gotoStage="cell">to begin your journey!</action>
+    <item></item>
+	</stage>
+	<stage name="cell">
+		<text>You're in a prison cell, and you want to escape. There are some dirty sheets on the bed, a mirror on the wall, and the door is locked outside...</text>
+		<action key="M" gotoStage="mirror">to view mirror</action>
+	  <action key="L" gotoStage="lock_0">to view lock</action>
+	  <action key="S" gotoStage="sheets_0">to view sheets</action>
+	  <item></item>
+	</stage>
+  <stage name="sheets_0">
+    <text>Sheets were full of sweat, dirt and pee. You can't believe you still sleeping in these. Thoughts that some day you'll escape this hell is filling you with determination.</text>
+    <action key="R" gotoStage="cell">to return</action>
+  </stage>
+  <stage name="mirror">
+    <text>You're looking inside the mirror, your unshaved face looks disgusting. You can't even remember how long you stay here.</text>
+    <action key="R" gotoStage="cell">to return</action>
+  </stage>
+  <stage name="lock_0">
+    <text>Despite your running skills failed you when you tried to escape the police, your skills of hacking locks is perfect, so you're trying to hack lock of your cell by your ex-wife's hairclip</text>
+    <action key="R" gotoStage="cell">to return</action>
+    <action key="T" gotoStage="corridor_0">to try to unlock door</action>
+  </stage>
+  <stage name="corridor_0">
+    <text>Your hacking skills didn't betray you, so you unlocked your cell door and now are approaching to your next destination point</text>
+    <action key="M" gotoStage="connector">to move</action>
+  </stage>
+  <stage name="connector">
+    <text>According to the prison plan, the only place you can escape it is canalization. So you are going there in most unnoticeable way you can.</text>
+    <action key="J" gotoStage="canalization">to jump into canalization</action>
+  </stage>
+  <stage name="canalization">
+    <text>Jeez, you barely breathe because of ugly smell! But things're going to get worse.</text>
+    <action key="J" gotoStage="dirty_pipe">to start crawling the pipe</action>
+  </stage>
+  <stage name="dirty_pipe">
+    <text>You're crawling inside a dirty pipe. The smell inside is insane. It seemed that you gonna pass out in this pipe, full of sh*t... Suddenly, you see small light towards pipe.</text>
+    <action key="C" gotoStage="freedom">to crawl to the light</action>
+  </stage>
+  <stage name="freedom">
+    <text>Fortunately, you crawled in right direction, so when you aproached to light you fell into small river. Now you're staying in sunny lawn, feeling free, feeling happy...</text>
+    <action key="R" gotoStage="splash_screen">to restart game</action>
+  </stage>
+</script>
