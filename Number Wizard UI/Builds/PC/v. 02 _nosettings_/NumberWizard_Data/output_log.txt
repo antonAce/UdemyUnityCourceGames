@@ -1,0 +1,99 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M   (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+    Driver:   10.18.13.6472
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 02 _nosettings_\NumberWizard_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 02 _nosettings_\NumberWizard_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 02 _nosettings_\NumberWizard_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 02 _nosettings_\NumberWizard_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 02 _nosettings_\NumberWizard_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 02 _nosettings_\NumberWizard_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 02 _nosettings_\NumberWizard_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 02 _nosettings_\NumberWizard_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 02 _nosettings_\NumberWizard_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 02 _nosettings_\NumberWizard_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 02 _nosettings_\NumberWizard_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 02 _nosettings_\NumberWizard_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.022 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.806949 ms
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToInt32 (System.String value) [0x00000] in <filename unknown>:0 
+  at MainMenuManager.SetTriesValue () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent`1[T0].Invoke (.T0 arg0) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.InputField.SendOnValueChanged () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.InputField.SendOnValueChangedAndUpdateLabel () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.InputField.Backspace () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.InputField.KeyPressed (UnityEngine.Event evt) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.InputField.OnUpdateSelected (UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IUpdateSelectedHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IUpdateSelectedHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:SendUpdateEventToSelectedObject()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level is loaded: Guess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.651585 ms
+1 1000 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 0.255298 ms (FindLiveObjects: 0.041480 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.196285 ms  DeleteObjects: 0.004276 ms)
+
+Level is loaded: Win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.449018 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 0.270266 ms (FindLiveObjects: 0.060296 ms CreateObjectMapping: 0.012401 ms MarkObjects: 0.179607 ms  DeleteObjects: 0.016677 ms)
+
+Level is loaded: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.417800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 363.
+Total: 0.340826 ms (FindLiveObjects: 0.049605 ms CreateObjectMapping: 0.025658 ms MarkObjects: 0.258719 ms  DeleteObjects: 0.005131 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 176c -> priority: 1 
+  Thread -> id: 2488 -> priority: 1 
+  Thread -> id: 2698 -> priority: 1 
+  Thread -> id: 2474 -> priority: 1 

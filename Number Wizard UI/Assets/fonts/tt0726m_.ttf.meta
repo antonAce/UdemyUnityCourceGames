@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bfda3e9bd5910f74786ae2f58031bb51
+timeCreated: 1518105405
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kaufmann BT
+  fontNames:
+  - Kaufmann BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

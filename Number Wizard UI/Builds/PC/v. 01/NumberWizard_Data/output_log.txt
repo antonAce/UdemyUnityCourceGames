@@ -1,0 +1,151 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M   (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+    Driver:   10.18.13.6472
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 01\NumberWizard_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 01\NumberWizard_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 01\NumberWizard_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 01\NumberWizard_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 01\NumberWizard_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 01\NumberWizard_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 01\NumberWizard_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 01\NumberWizard_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 01\NumberWizard_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 01\NumberWizard_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 01\NumberWizard_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Number Wizard UI\Builds\PC\v. 01\NumberWizard_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.021 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.951490 ms
+Level is loaded: Guess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.674305 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.236910 ms (FindLiveObjects: 0.035066 ms CreateObjectMapping: 0.038487 ms MarkObjects: 0.159080 ms  DeleteObjects: 0.003848 ms)
+
+Level is loaded: Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.362207 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 305.
+Total: 0.259147 ms (FindLiveObjects: 0.041480 ms CreateObjectMapping: 0.028223 ms MarkObjects: 0.174475 ms  DeleteObjects: 0.013684 ms)
+
+Level is loaded: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.396418 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.253160 ms (FindLiveObjects: 0.037631 ms CreateObjectMapping: 0.027796 ms MarkObjects: 0.183028 ms  DeleteObjects: 0.003421 ms)
+
+Level is loaded: Guess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.380168 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.241186 ms (FindLiveObjects: 0.037631 ms CreateObjectMapping: 0.034210 ms MarkObjects: 0.164212 ms  DeleteObjects: 0.003421 ms)
+
+Level is loaded: Win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.378458 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 305.
+Total: 0.227930 ms (FindLiveObjects: 0.038487 ms CreateObjectMapping: 0.038059 ms MarkObjects: 0.137698 ms  DeleteObjects: 0.012401 ms)
+
+Level is loaded: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.375036 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.243752 ms (FindLiveObjects: 0.034210 ms CreateObjectMapping: 0.032500 ms MarkObjects: 0.172337 ms  DeleteObjects: 0.004276 ms)
+
+Level is loaded: Guess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.454149 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.258292 ms (FindLiveObjects: 0.039342 ms CreateObjectMapping: 0.027796 ms MarkObjects: 0.186877 ms  DeleteObjects: 0.003421 ms)
+
+Level is loaded: Win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.380168 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 305.
+Total: 0.230923 ms (FindLiveObjects: 0.040625 ms CreateObjectMapping: 0.025230 ms MarkObjects: 0.151810 ms  DeleteObjects: 0.012401 ms)
+
+Level is loaded: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.454149 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.236482 ms (FindLiveObjects: 0.038487 ms CreateObjectMapping: 0.034210 ms MarkObjects: 0.159080 ms  DeleteObjects: 0.003848 ms)
+
+Level is loaded: Guess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.356648 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.231778 ms (FindLiveObjects: 0.049605 ms CreateObjectMapping: 0.011546 ms MarkObjects: 0.165922 ms  DeleteObjects: 0.003848 ms)
+
+Level is loaded: Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.374609 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 305.
+Total: 0.236055 ms (FindLiveObjects: 0.053026 ms CreateObjectMapping: 0.011546 ms MarkObjects: 0.156942 ms  DeleteObjects: 0.013256 ms)
+
+Level is loaded: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.300200 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.219805 ms (FindLiveObjects: 0.022664 ms CreateObjectMapping: 0.012401 ms MarkObjects: 0.179607 ms  DeleteObjects: 0.003848 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 250c -> priority: 1 
+  Thread -> id: 2888 -> priority: 1 
+  Thread -> id: e9c -> priority: 1 
+  Thread -> id: bec -> priority: 1 
