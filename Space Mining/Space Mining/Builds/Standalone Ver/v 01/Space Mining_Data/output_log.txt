@@ -1,0 +1,39 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M   (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+    Driver:   10.18.13.6472
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Space Mining\Builds\Standalone Ver\v 01\Space Mining_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Space Mining\Builds\Standalone Ver\v 01\Space Mining_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Space Mining\Builds\Standalone Ver\v 01\Space Mining_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Space Mining\Builds\Standalone Ver\v 01\Space Mining_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Space Mining\Builds\Standalone Ver\v 01\Space Mining_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Space Mining\Builds\Standalone Ver\v 01\Space Mining_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Space Mining\Builds\Standalone Ver\v 01\Space Mining_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Space Mining\Builds\Standalone Ver\v 01\Space Mining_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Space Mining\Builds\Standalone Ver\v 01\Space Mining_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Unity Studio\Cources\Udemy Workshop\Space Mining\Builds\Standalone Ver\v 01\Space Mining_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Space Mining\Builds\Standalone Ver\v 01\Space Mining_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Unity Studio\Cources\Udemy Workshop\Space Mining\Builds\Standalone Ver\v 01\Space Mining_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.022 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.012209 ms
+UnityEngine.SceneManagement.Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Quit game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 50c -> priority: 1 
+  Thread -> id: 2954 -> priority: 1 
+  Thread -> id: 269c -> priority: 1 
+  Thread -> id: 3074 -> priority: 1 
